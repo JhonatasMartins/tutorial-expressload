@@ -2,5 +2,5 @@
 
 Aplicação de exemplo de como configurar o express-load em aplicações baseadas em express js
 
-[Segue o link do tutorial](http://blog.jhonatasmartins.com/carregando-modulos-dinamicamente-no-nodejs)
+[Segue o link do tutorial](http://blog.jhonatasmartins.com/carregar-modulos-dinamicamente-no-nodejs)
 
